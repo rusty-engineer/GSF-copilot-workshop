@@ -4,7 +4,7 @@ Documentation — a word that often invokes a collective sigh among developers. 
 
 Yet, despite our reluctance, documentation remains an indispensable aspect of software development. It serves as the bridge between our code and those who will interact with it — whether they be fellow developers, stakeholders, or end-users (but most likely future you). Documentation is not merely an afterthought; it's the lifeline that sustains the longevity and usability of our projects.
 
-In this era of agile development and rapid iteration, the temptation to prioritize coding over documentation is ever-present. However, as seasoned developers know all too well, neglecting documentation can lead to a myriad of issues down the line. Without clear and comprehensive documentation, understanding and maintaining code becomes a Herculean task. Bugs linger undetected, features remain underutilized, and the risk of miscommunication looms large.
+In this era of agile development and rapid iteration, the temptation to prioritise coding over documentation is ever-present. However, as seasoned developers know all too well, neglecting documentation can lead to a myriad of issues down the line. Without clear and comprehensive documentation, understanding and maintaining code becomes a Herculean task. Bugs linger undetected, features remain underutilised, and the risk of miscommunication looms large.
 
 #### Using Inline Documentation:
 
@@ -22,8 +22,8 @@ In this era of agile development and rapid iteration, the temptation to prioriti
    - As you write your comments, GitHub Copilot will analyse the context and provide suggestions for completing the documentation.
    - Begin typing your comments, and Copilot will offer suggestions based on the patterns it recognizes in your codebase and the natural language comments you've provided.
 
-5. **Review and Customize Suggestions:**
-   - Review the suggestions provided by Copilot and customize them as needed to ensure accuracy and completeness.
+5. **Review and Customise Suggestions:**
+   - Review the suggestions provided by Copilot and customise them as needed to ensure accuracy and completeness.
    - Add additional details or examples to enhance the documentation and make it more informative.
 
 6. **Incorporate Best Practices:**

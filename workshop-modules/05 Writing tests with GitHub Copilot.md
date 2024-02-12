@@ -20,10 +20,10 @@ Here's how you can leverage Copilot for unit testing in your word search game:
    - Write clear and descriptive comments within your codebase to outline the test scenarios and expectations.
    - Use natural language comments to describe the behavior that should be tested and the expected outcomes.
 3. **Trigger Copilot Suggestions:**
-   - Start writing test cases based on your comments, and Copilot will analyze the context and provide suggestions for completing the test framework.
+   - Start writing test cases based on your comments, and Copilot will analyse the context and provide suggestions for completing the test framework.
    - As you write your tests, Copilot will offer suggestions for assertions, setup code, and other test-related elements.
-4. **Review and Customize Suggestions:**
-   - Review the test suggestions provided by Copilot and customize them as needed to align with your test scenarios and requirements.
+4. **Review and Customise Suggestions:**
+   - Review the test suggestions provided by Copilot and customise them as needed to align with your test scenarios and requirements.
    - Ensure that the generated test cases cover the intended functionality and edge cases of your word search game.
 5. **Execute and Validate Tests:**
    - Run the generated tests to validate the functionality of your word search game components.

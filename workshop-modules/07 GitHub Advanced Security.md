@@ -16,7 +16,7 @@
    - Navigate to the `Secrets` tab of your GitHub repository. 
    - Click on `Add a new secret` and enter a secret name and value. Remember, it's crucial to keep sensitive information like API keys and passwords out of our code. Let's make sure we're protecting our secrets like treasure! 🪙
    
-3. **Utilizing Dependency Insights:**
+3. **Utilising Dependency Insights:**
    
    Time to get insights into our project's dependencies. 
    
@@ -33,7 +33,7 @@
 By addressing the students directly and framing the instructions as a collaborative learning experience, we can empower them to take ownership of their project's security and apply best practices in real-world scenarios. Let's embark on this journey together and make our Word Search game project as secure as possible!
 
 #### Strategies for Managing Large, Monolithic Codebases:
-Managing large, monolithic codebases requires strategic planning and disciplined implementation to ensure scalability, maintainability, and efficient development workflows. One effective strategy is modularization, where the codebase is broken down into smaller, more manageable modules or components. This approach not only simplifies understanding and development but also facilitates parallel development efforts by different teams. Adopting coding standards and best practices is crucial in maintaining consistency and quality across the codebase, reducing the likelihood of bugs and improving code readability.
+Managing large, monolithic codebases requires strategic planning and disciplined implementation to ensure scalability, maintainability, and efficient development workflows. One effective strategy is modularisation, where the codebase is broken down into smaller, more manageable modules or components. This approach not only simplifies understanding and development but also facilitates parallel development efforts by different teams. Adopting coding standards and best practices is crucial in maintaining consistency and quality across the codebase, reducing the likelihood of bugs and improving code readability.
 
 Regular refactoring is another vital strategy, aimed at continuously improving the code structure and eliminating technical debt without altering the software's external behavior. This proactive measure helps in keeping the codebase clean, efficient, and adaptable to new requirements or technologies. Moreover, implementing continuous integration and continuous deployment (CI/CD) pipelines automates testing and deployment processes, ensuring that changes are systematically validated, thus reducing integration issues and speeding up release cycles.
 

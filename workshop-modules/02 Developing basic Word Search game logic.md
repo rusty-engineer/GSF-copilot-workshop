@@ -26,7 +26,7 @@
   - Refine the generated code to align with specified game logic requirements.
   - If you haven't already, run the game and see what it looks like. 
 
-## Utilizing Prompt Engineering for Effective AI Code Suggestions
+## Utilising Prompt Engineering for Effective AI Code Suggestions
 
 Let's delve into prompt engineering a bit more. After all, that is the primary language that Copilot speaks. To effectively use prompt engineering with GitHub Copilot for coding tasks, follow these guidelines:
 

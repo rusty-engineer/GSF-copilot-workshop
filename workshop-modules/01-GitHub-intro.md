@@ -54,8 +54,8 @@ Absolutely, let's tailor the instructions to creating a classic word search game
       - **Note**: We'll be using the repository you 'forked' earlier for the remainder of the exercise, so this repository is just to learn the ropes.
    - **Description**: Provide a brief description, e.g., "A classic word search game built in [programming language/technology you are using]."
    - **Visibility**: Choose whether your repository should be public or private.
-3. **Initialize the Repository**
-   - **Initialize with README**: Check this box to create a README.md file. You can later edit this file to describe your word search game, how to play it, and how to set it up. All repositories should fill this file out to welcome new contributors and get them started.
+3. **Initialise the Repository**
+   - **Initialise with README**: Check this box to create a README.md file. You can later edit this file to describe your word search game, how to play it, and how to set it up. All repositories should fill this file out to welcome new contributors and get them started.
    - **Add .gitignore**: If you are using a specific programming language or framework, select the corresponding .gitignore template. This will help to ignore unnecessary files from being tracked by Git.
    - **Choose a license (Optional)**: Select an appropriate license for your project. For open-source projects, common choices are MIT or GPL licenses.
 4. **Create the Repository**
@@ -89,7 +89,7 @@ Cloning a repository is an essential step for working on a project locally on yo
    When you work with a codespace from your local VSCode the heavy lifting is done in the codespace and streamed to your local VSCode window. The default extensions and settings are all based on the .devcontainer definition of the codespace. Which means you can use codespaces to get new members of the team up and running with a preconfigured codespace in minutes.
 
    - **Setting Up Visual Studio Code:**
-      - Familiarize yourself with the Visual Studio Code interface within the GitHub Codespace. In particular we'll be using the terminal in VSCode for the next few steps
+      - Familiarise yourself with the Visual Studio Code interface within the GitHub Codespace. In particular we'll be using the terminal in VSCode for the next few steps
    
 
 3. **Clone the Repository Using Git** 
@@ -178,7 +178,7 @@ Now, your changes are both committed locally and pushed to the remote repository
 
 ## Create a branch and merge
 
-Creating a branch and merging changes is a common workflow in Git when working on features or fixes without affecting the main codebase directly. Branching in Git allows developers to create isolated environments within a repository, enabling them to work on new features or fixes without affecting the main codebase. Each branch represents a distinct line of development, and changes made in a branch can be tested independently before being merged back into the main branch, ensuring a controlled and organized development process.
+Creating a branch and merging changes is a common workflow in Git when working on features or fixes without affecting the main codebase directly. Branching in Git allows developers to create isolated environments within a repository, enabling them to work on new features or fixes without affecting the main codebase. Each branch represents a distinct line of development, and changes made in a branch can be tested independently before being merged back into the main branch, ensuring a controlled and organised development process.
 
 Here are the steps to create a branch, make changes, and then merge them back into the main branch:
 
@@ -269,7 +269,7 @@ Issue tracking is a vital aspect of project management on GitHub. It allows you 
 
 3. **Create a New Issue:**
    - Click the green "New issue" button.
-   - Provide a descriptive title for the issue that summarizes the task or problem.
+   - Provide a descriptive title for the issue that summarises the task or problem.
 
 4. **Write a Detailed Description:**
    - In the comment box, write a detailed description of the issue.
@@ -277,7 +277,7 @@ Issue tracking is a vital aspect of project management on GitHub. It allows you 
    - For feature requests, describe the desired functionality.
 
 5. **Assign Labels and Milestones (Optional):**
-   - Use labels to categorize the issue (e.g., bug, enhancement, documentation).
+   - Use labels to categorise the issue (e.g., bug, enhancement, documentation).
    - Assign milestones to group related issues together (e.g., for a specific release).
 
 6. **Assignees (Optional):**

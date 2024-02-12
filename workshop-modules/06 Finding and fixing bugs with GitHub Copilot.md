@@ -18,9 +18,9 @@
    - Copilot may provide suggestions for debugging techniques, error handling strategies, or code modifications to address the bug.
    - Use the tools provided by the Copilot extension, such as quick fixes.
 
-#### 5. Review and Customize Copilot Suggestions:
+#### 5. Review and Customise Copilot Suggestions:
    - Review the debugging suggestions provided by Copilot and evaluate their relevance to the bug at hand.
-   - Customize and refine the suggestions as needed to align with your understanding of the bug and your debugging approach.
+   - Customise and refine the suggestions as needed to align with your understanding of the bug and your debugging approach.
    - Consider incorporating Copilot's suggestions into your debugging process to streamline the bug-fixing effort.
 
 #### 6. Test the Fix:

@@ -16,7 +16,7 @@ Below is a list of potential features you can implement in your Word Search game
 
 2. **Hints:** Provide players with hints or clues to locate difficult words.
 
-3. **Word Categories:** Categorize words and allow players to choose specific categories for their game (e.g., animals, food, sports).
+3. **Word Categories:** Categorise words and allow players to choose specific categories for their game (e.g., animals, food, sports).
 
 4. **Multiplayer Mode:** Enable multiplayer functionality to allow multiple players to compete against each other in finding words.
 
@@ -72,7 +72,7 @@ Below is a list of potential features you can implement in your Word Search game
 
 30. **Cross-Platform Play:** Enable players to enjoy the game on various devices and platforms.
 
-These features can make the Word Search game more engaging, customizable, and appealing to a wide range of players. The choice of which features to implement can depend on the target audience and the game's objectives.
+These features can make the Word Search game more engaging, customisable, and appealing to a wide range of players. The choice of which features to implement can depend on the target audience and the game's objectives.
 
 ## Giving Copilot instructions
 
@@ -93,9 +93,9 @@ When you implement any of these features with Copilot's help, consider these poi
 5. **Trigger Copilot Suggestions:**
    - Start writing code around your comments to trigger GitHub Copilot suggestions.
    - Experiment with different comments and prompts to guide Copilot effectively.
-6. **Review and Customize Suggestions:**
+6. **Review and Customise Suggestions:**
    - Review the code suggestions provided by Copilot and evaluate their relevance to your feature requirements.
-   - Customize and refine the generated code to align with your specific needs and design preferences.
+   - Customise and refine the generated code to align with your specific needs and design preferences.
 7. **Iterate and Refine:**
    - Iterate on the implementation based on user feedback and testing results.
    - Refine the feature to improve performance, usability, and overall user experience.
