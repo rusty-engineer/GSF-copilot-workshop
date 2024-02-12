@@ -1,0 +1,19 @@
+[package]
+name = "wordsearch_rust"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+strip = true  # Automatically strip symbols from the binary. Makes the compiled binary smaller.
+
+[[bin]]
+edition = "2021"
+name = "wordsearch_rust"
+path = "src/main.rs"
+
+
+[dependencies]
+wasm-bindgen = "0.2.74"
+
+[lib]
+crate-type = ["cdylib"]

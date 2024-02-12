@@ -1,0 +1,36 @@
+﻿@page "/"
+
+<h1>Word Search Game</h1>
+
+<table>
+    @for (int i = 0; i < 10; i++)
+    {
+        <tr>
+            @for (int j = 0; j < 10; j++)
+            {
+                <td>@grid[i, j]</td>
+            }
+        </tr>
+    }
+</table>
+
+@code {
+    private char[,] grid = new char[10, 10];
+    private string word = "blazor";
+
+    protected override void OnInitialized()
+    {
+        for (int i = 0; i < 10; i++)
+        {
+            for (int j = 0; j < 10; j++)
+            {
+                grid[i, j] = '.';
+            }
+        }
+
+        for (int i = 0; i < word.Length; i++)
+        {
+            grid[0, i] = word[i];
+        }
+    }
+}
